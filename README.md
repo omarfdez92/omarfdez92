@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @omarfdez92
-- 👀 I’m interested in Java, Kotlin and React
-- 🌱 I’m currently learning AWS and Kotlin
-- 💞️ I’m looking to collaborate on Java and Kotlin projects
+- 👀 I’m interested in FARM, Java, Kotlin and Swift
+- 🌱 I’m currently learning AWS and Swift
+- 💞️ I’m looking to collaborate on FARM, Java, Kotlin and Swift projects
 - 📫 How to reach me twitter@ciscoparra7
 
 <!---
